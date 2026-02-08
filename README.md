@@ -26,6 +26,16 @@ The contract provides:
 
 ---
 
+## 🧪 How to Use
+
+1. Open the project in **Remix IDE**
+2. Compile the contract using Solidity `^0.8.19`
+3. Connect MetaMask using **Injected Provider**
+4. Deploy the contract
+5. Call `registerStudent(name, rollNumber)`
+6. Retrieve data using `getStudent(address)
+
+---
 ## 🚀 Deployment
 
 - Network: Sepolia Testnet  
@@ -36,12 +46,12 @@ The contract provides:
 ## 📸 Screenshots
 
 ### 1️⃣ MetaMask Connected to Remix
-![MetaMask Connected](ss/metamask_connected.png)
+![MetaMask Connected](ss/Screenshot 2026-02-08 194910.png) 
 
 ---
 
 ### 2️⃣ Contract Deployed in Remix
-![Contract Deployed](ss/contract_deployed.png)
+![Contract Deployed](ss/Screenshot 2026-02-08 194943.png)
 
 
 ---
