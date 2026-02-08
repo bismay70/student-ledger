@@ -46,12 +46,12 @@ The contract provides:
 ## 📸 Screenshots
 
 ### 1️⃣ MetaMask Connected to Remix
-![MetaMask Connected](ss/Screenshot 2026-02-08 194910.png) 
+![MetaMask Connected](ss/metamask-connected.png) 
 
 ---
 
 ### 2️⃣ Contract Deployed in Remix
-![Contract Deployed](ss/Screenshot 2026-02-08 194943.png)
+![Contract Deployed](ss/contract-deployed.png)
 
 
 ---
